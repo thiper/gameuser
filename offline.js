@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1488319087,
+	"version": 1488328044,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,7 +29,7 @@
 		"images/paisagem_tiled.png",
 		"images/pavimento_tiled.png",
 		"images/img_rua-sheet0.png",
-		"images/img_mask-sheet0.png",
+		"images/img_mask_facebook-sheet0.png",
 		"images/icon_facebook-sheet0.png",
 		"images/img_perfil_facebook_larga2-sheet0.png",
 		"images/mascara-sheet0.png",
