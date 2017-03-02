@@ -1,9 +1,9 @@
 ﻿{
-	"name": "Game Run Campo Grande",
-	"short_name": "Game Run Campo Grande",
+	"name": "New project",
+	"short_name": "New project",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "portrait",
+	"orientation": "any",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
